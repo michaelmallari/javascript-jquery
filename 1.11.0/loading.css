@@ -1,0 +1,13 @@
+#loader { margin: 10px 0 0 36px; }
+#loader span {
+	backgrouind: #cfc;
+	border: 1px solid #363;
+	display: block;
+	float: left;
+	margin-right: 6px;
+	position: relative;
+	width: 6px;
+}
+#loader .bar-0 { bottom: -20px; height: 15px; }
+#loader .bar-1 { bottom: -10px; height: 25px; }
+#loader .bar-2 { height: 35px; margin-right: 0px; }
